@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Seenaiah Dadi
+# 👋 Hi there, I'm Seenaiah Dommalapati
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer**, tech enthusiast, and continuous learner with a strong focus on building scalable, maintainable applications and exploring the latest in software development.
 
@@ -9,14 +9,14 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer**, tech en
 - 💼 Full Stack Developer | JavaScript | Node.js | React | Python | DevOps
 - 🎓 Always learning – currently exploring **AI integrations** and **cloud-native architectures**
 - 🔧 Problem-solver who enjoys tackling complex backend logic and building smooth front-end interfaces
-- 📍 Based in [Your Location, Optional]
+
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**  
-`JavaScript` | `TypeScript` | `Python` | `Node.js` | `React` | `Next.js` | `Express` | `HTML` | `CSS`
+`JavaScript` | `TypeScript` | `Python` | `Node.js` | `React` | `Next.js` | `Express` | `HTML` | `CSS`|`Python`
 
 **Databases**  
 `MongoDB` | `PostgreSQL` | `MySQL`
@@ -35,36 +35,13 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer**, tech en
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- 🌐 [Portfolio Website](https://your-portfolio.com)
-- ✉️ Email: your.email@example.com
+- 💼 [LinkedIn]((https://www.linkedin.com/in/seenaiah-dommalapati-23b86b268/))
+- 🌐 [Portfolio Website](https://seenaiah.vercel.app/)
+- ✉️ Email: seenaiahdommalapati@gmail.com
 
 ---
 
-## 🔭 Recent Projects
-
-- 🛒 **E-Commerce App** – Full-featured MERN stack application with Stripe integration
-- 🧠 **AI Chatbot** – Python-based AI assistant using OpenAI APIs and LangChain
-- 🚀 **DevOps Pipeline** – CI/CD setup using GitHub Actions, Docker, and Kubernetes
-
----
 
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
 Thanks for visiting my profile! 😊
-## Hi there 👋
-
-<!--
-**DSEENAIAH/DSEENAIAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
